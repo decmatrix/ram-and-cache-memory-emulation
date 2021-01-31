@@ -4,7 +4,7 @@
 RAM and cash memory emulation
 
 ## Scheme of cache memory  
-![cash](https://github.com/bohdan-sokolovskyi/ram-and-cash-memory-emulation/blob/master/demo-pics/cache.png{
+![cash](https://github.com/bohdan-sokolovskyi/ram-and-cash-memory-emulation/blob/master/demo-pics/cache.png)
 
 ## Demonstation
 * 1.  
