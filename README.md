@@ -16,3 +16,6 @@ RAM and cash memory emulation
 * 3.
 ![demo 3](https://github.com/bohdan-sokolovskyi/ram-and-cash-memory-emulation/blob/master/demo-pics/demo-3.png)
 
+* 4.  
+![demo 4](https://github.com/bohdan-sokolovskyi/ram-and-cash-memory-emulation/blob/master/demo-pics/demo-4.png)
+
