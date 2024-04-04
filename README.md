@@ -1,7 +1,7 @@
 # ram-and-cash-memory-emulation
 
 ## Description
-RAM and cash memory emulation
+RAM and cache memory emulation
 
 ## Scheme of cache memory  
 ![cash](https://github.com/bohdan-sokolovskyi/ram-and-cash-memory-emulation/blob/master/demo-pics/cache.png)
